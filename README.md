@@ -26,3 +26,4 @@ The base models, controllers, views and other files have been provided. There ar
 4. Make sure all tests pass. Then, do this:
 
 ![Dancing Daft Punk](http://i.giphy.com/ZCKh7knqLpc4M.gif)
+
